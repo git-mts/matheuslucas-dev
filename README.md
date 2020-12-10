@@ -1,11 +1,6 @@
-### Hi there 👋
-
-<!--
-**matheuslucas-dev/matheuslucas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![](https://github.com/i-ramoss/i-ramoss/blob/master/banner.png?raw=true)
 
-# **E aí galera, Matheus Lucas aqui** 👏🏽
+# **E aí galera, Matheus Lucas aqui** 👋
 
 Sou um FullStack Developer Júnior em construção, tenho 22 anos.
 
