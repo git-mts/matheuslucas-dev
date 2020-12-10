@@ -3,14 +3,29 @@
 <!--
 **matheuslucas-dev/matheuslucas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://github.com/i-ramoss/i-ramoss/blob/master/banner.png?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **E aí galera, Matheus Lucas aqui** 👏🏽
+
+Sou um FullStack Developer Júnior em construção, tenho 22 anos.
+
+Entusiasta das melhores tecnologias de desenvolvimento web e mobile 💻.
+
+Atualmente focado na Stack (Node.js, ReactJS e React Native).
+
+🚀 Estou estudando na Rocketseat, no Bootcamp GoStack
+
+💜 Buscando colaborar com projetos Typescript.
+
+💻 Minha Stack: Node.js, ReactJS, React Native e Typescript.
+
+<br />
+
+## Meus objetivos
+
+- Melhorar ainda mais na área que tanto amo.
+- Ajudar pessoas que gostem da área de desenvolvimento ou que queiram começarem.
+- Contribuir com a comunidade.
+- Aprender mais sobre testes automatizados.
+- E essa lista vem crescendo a cada dia mais!😃 
+
